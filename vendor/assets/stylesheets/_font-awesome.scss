@@ -30,7 +30,7 @@ $font_path: "icomoon" !default;
   src: font-url("#{$font_path}.eot?#iefix") unquote("format('eot')"),
        font-url("#{$font_path}.woff") unquote("format('woff')"),
        font-url("#{$font_path}.ttf") unquote("format('truetype')"),
-       font-url("#{$font_path}.svg#FontAwesomeRegular") unquote("format('svg')");
+       font-url("#{$font_path}.svg#icomoon") unquote("format('svg')");
   font-weight: normal;
   font-style: normal;
 }
